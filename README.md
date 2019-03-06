@@ -9,7 +9,7 @@ Here is a link to the different modules:<br>
 <br>
 <a href="https://github.com/christinium/japan2019/blob/master/2%20-%20SQL_and_DB.ipynb">2 - SQL and DB</a> (colab)
 <br>
-<a href="https://colab.research.google.com/github/christinium/NZ-workshop/blob/master/2.5%20-%20Practice%20SQL%20-%20taking%20a%20look%20at%20notes.ipynb">2.5 - Practice SQL - taking a look at notes</a> (colab)
+<a href="https://colab.research.google.com/github/christinium/japan2019/blob/master/2.5%20-%20Practice%20SQL%20-%20taking%20a%20look%20at%20notes.ipynb">2.5 - Practice SQL - taking a look at notes</a> (colab)
 <br>
 <a href="https://colab.research.google.com/github/christinium/japan2019/blob/master/3%20-%20NASH.ipynb"> 3 - NASH</a> (colab)
 <br>
