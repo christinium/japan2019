@@ -7,7 +7,7 @@ https://console.cloud.google.com/bigquery?project=datathonjapan2019
 Here is a link to the different modules:<br>
 <a href="https://github.com/christinium/japan2019/blob/master/1%20-%20Introduction%20-%20Structured%20vs%20Unstructured.ipynb">1 - Introduction - Structured vs Unstructured</a> (github text)
 <br>
-<a href="https://github.com/christinium/japan2019/blob/master/2%20-%20SQL_and_DB.ipynb">2 - SQL and DB</a> (colab)
+<a href="https://github.com/christinium/japan2019/blob/master/2%20-%20SQL%20and%20DB.ipynb">2 - SQL and DB</a> (colab)
 <br>
 <a href="https://colab.research.google.com/github/christinium/japan2019/blob/master/2.5%20-%20Practice%20SQL%20-%20taking%20a%20look%20at%20notes.ipynb">2.5 - Practice SQL - taking a look at notes</a> (colab)
 <br>
